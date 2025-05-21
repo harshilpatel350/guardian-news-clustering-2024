@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+umap-learn
+spacy
+nrclex
+wordcloud
+tqdm
+requests
+beautifulsoup4
+lxml
